@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @staticroses
 - 👀 I’m interested in web apps and low level programming.
-- 🌱 I’m currently learning the Ruby language along with Rails.
+- 🌱 I’m currently learning Ruby along with Rails.
 - 😄 Pronouns: they/them or any
 
 <!---
